@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item
+  - House
+  - Wall
+  - Enemy
+  - Oil
+  - AttackBox
+  - HealingWater
+  - Dog
+  - Door
+  - Trap
+  - Door2
+  - Door1
+  - PlayerCheck
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 304390627
+    locked: 0
+  - name: Background
+    uniqueID: 1661771399
+    locked: 0
+  - name: NPC Stuff
+    uniqueID: 739699275
+    locked: 0
+  - name: Robots
+    uniqueID: 1359285341
+    locked: 0
+  - name: Land
+    uniqueID: 2266818109
+    locked: 0
